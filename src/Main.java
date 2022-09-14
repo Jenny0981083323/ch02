@@ -1,6 +1,18 @@
 public class Main {
-    public static void main(String[] args) {
-       final double pi=3.14;
-        System.out.println(pi);
+    public static void main(String[] args){
+        int x;
+        x=10;
+        System.out.println(x);
+
+        int y=20;
+        System.out.println(y);
+
+        var z=50;
+        System.out.println(z);
+
+        int i,j,k;
+
+
+
     }
 }
